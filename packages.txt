@@ -1,5 +1,5 @@
 libgl1
-libgles2
 libegl1
+libgles2
 libgbm1
 libglib2.0-0t64
